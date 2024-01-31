@@ -1,7 +1,8 @@
 # COMP.CS.130-Functional-Programming
 
 ## Overview:
-    This repository contains solutions to exercises for the Spring 2024 implementation of the Functional Programming course hosted by Tampere University.
+    This repository contains solutions to exercises for the Spring 2024
+    implementation of the Functional Programming course hosted by Tampere University.
 
 ## Course Content:
     The course covers the following topics:
